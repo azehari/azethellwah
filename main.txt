@@ -2,6 +2,6 @@
 /* this Comment is made in server */
 /* New Line */
 
------ From Repo -----
+----- From Remote Repo -----
 
 /* A New Paragraph Comment */
